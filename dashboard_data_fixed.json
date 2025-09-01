@@ -1,0 +1,284 @@
+{
+  "Overview": [
+    {
+      "Metric": "Country",
+      "Value": "Kenya"
+    },
+    {
+      "Metric": "Status",
+      "Value": "Unknown"
+    },
+    {
+      "Metric": "Category",
+      "Value": "Agriculture"
+    },
+    {
+      "Metric": "Project Type",
+      "Value": "Sustainable Agriculture"
+    },
+    {
+      "Metric": "Protocol",
+      "Value": "VM0017"
+    },
+    {
+      "Metric": "Proponent",
+      "Value": "Vi Agroforestry Programme"
+    },
+    {
+      "Metric": "Compliance",
+      "Value": "No"
+    },
+    {
+      "Metric": "Registry",
+      "Value": "VCS"
+    }
+  ],
+  "Credits Summary": [
+    {
+      "Metric": "Credits Issued",
+      "Value": "326K"
+    },
+    {
+      "Metric": "Credits Retired",
+      "Value": "194K"
+    }
+  ],
+  "Issuances Over Time": [
+    {
+      "Year": 2014,
+      "Issued Credits": 0
+    },
+    {
+      "Year": 2016,
+      "Issued Credits": 0
+    },
+    {
+      "Year": 2018,
+      "Issued Credits": 50000
+    },
+    {
+      "Year": 2020,
+      "Issued Credits": 100000
+    },
+    {
+      "Year": 2022,
+      "Issued Credits": 0
+    },
+    {
+      "Year": 2024,
+      "Issued Credits": 0
+    }
+  ],
+  "Retirements Over Time": [
+    {
+      "Year": 2014,
+      "Retired Credits": 0
+    },
+    {
+      "Year": 2016,
+      "Retired Credits": 0
+    },
+    {
+      "Year": 2018,
+      "Retired Credits": 0
+    },
+    {
+      "Year": 2020,
+      "Retired Credits": 50000
+    },
+    {
+      "Year": 2022,
+      "Retired Credits": 25000
+    },
+    {
+      "Year": 2024,
+      "Retired Credits": 0
+    }
+  ],
+  "Transactions": [
+    {
+      "Date": "10-19-2023",
+      "Event": "Retirement",
+      "Quantity": 6,
+      "Vintage": 2015,
+      "User": "23/053 & 23/054"
+    },
+    {
+      "Date": "10-19-2023",
+      "Event": "Retirement",
+      "Quantity": 489,
+      "Vintage": 2012,
+      "User": "23/172"
+    },
+    {
+      "Date": "10-19-2023",
+      "Event": "Retirement",
+      "Quantity": 13,
+      "Vintage": 2012,
+      "User": "23/088"
+    },
+    {
+      "Date": "10-19-2023",
+      "Event": "Retirement",
+      "Quantity": 5,
+      "Vintage": 2012,
+      "User": "23/053 & 23/054"
+    },
+    {
+      "Date": "10-19-2023",
+      "Event": "Retirement",
+      "Quantity": 116,
+      "Vintage": 2012,
+      "User": "23/297"
+    },
+    {
+      "Date": "10-19-2023",
+      "Event": "Retirement",
+      "Quantity": 56,
+      "Vintage": 2012,
+      "User": "23/338"
+    },
+    {
+      "Date": "10-19-2023",
+      "Event": "Retirement",
+      "Quantity": 39,
+      "Vintage": 2012,
+      "User": "23/338"
+    },
+    {
+      "Date": "10-19-2023",
+      "Event": "Retirement",
+      "Quantity": 880,
+      "Vintage": 2012,
+      "User": "23/309"
+    },
+    {
+      "Date": "10-19-2023",
+      "Event": "Retirement",
+      "Quantity": 77,
+      "Vintage": 2012,
+      "User": "23/317"
+    },
+    {
+      "Date": "10-02-2023",
+      "Event": "Retirement",
+      "Quantity": 700,
+      "Vintage": 2017,
+      "User": "Note AB"
+    },
+    {
+      "Date": "03-30-2023",
+      "Event": "Retirement",
+      "Quantity": 2910,
+      "Vintage": 2015,
+      "User": "Elopak AS"
+    },
+    {
+      "Date": "03-22-2023",
+      "Event": "Retirement",
+      "Quantity": 14,
+      "Vintage": 2015,
+      "User": "Retirement on behalf of Astorg - 23/116"
+    },
+    {
+      "Date": "03-17-2023",
+      "Event": "Retirement",
+      "Quantity": 4610,
+      "Vintage": 2015,
+      "User": "2022 Retirements"
+    }
+  ],
+  "Dashboard": [
+    {
+      "Project Overview": "Country:",
+      "Unnamed: 1": "Kenya",
+      "Unnamed: 2": null,
+      "Credits Summary": "Credits Issued:",
+      "Unnamed: 4": "326K"
+    },
+    {
+      "Project Overview": "Status:",
+      "Unnamed: 1": "Unknown",
+      "Unnamed: 2": null,
+      "Credits Summary": "Credits Retired:",
+      "Unnamed: 4": "194K"
+    },
+    {
+      "Project Overview": "Category:",
+      "Unnamed: 1": "Agriculture",
+      "Unnamed: 2": null,
+      "Credits Summary": null,
+      "Unnamed: 4": null
+    },
+    {
+      "Project Overview": "Project Type:",
+      "Unnamed: 1": "Sustainable Agriculture",
+      "Unnamed: 2": null,
+      "Credits Summary": null,
+      "Unnamed: 4": null
+    },
+    {
+      "Project Overview": "Protocol:",
+      "Unnamed: 1": "VM0017",
+      "Unnamed: 2": null,
+      "Credits Summary": null,
+      "Unnamed: 4": null
+    },
+    {
+      "Project Overview": "Proponent:",
+      "Unnamed: 1": "Vi Agroforestry Programme",
+      "Unnamed: 2": null,
+      "Credits Summary": null,
+      "Unnamed: 4": null
+    },
+    {
+      "Project Overview": "Compliance:",
+      "Unnamed: 1": "No",
+      "Unnamed: 2": null,
+      "Credits Summary": null,
+      "Unnamed: 4": null
+    },
+    {
+      "Project Overview": "Registry:",
+      "Unnamed: 1": "VCS",
+      "Unnamed: 2": null,
+      "Credits Summary": null,
+      "Unnamed: 4": null
+    },
+    {
+      "Project Overview": null,
+      "Unnamed: 1": null,
+      "Unnamed: 2": null,
+      "Credits Summary": null,
+      "Unnamed: 4": null
+    },
+    {
+      "Project Overview": "Total Quantity Retired:",
+      "Unnamed: 1": 0,
+      "Unnamed: 2": null,
+      "Credits Summary": null,
+      "Unnamed: 4": null
+    },
+    {
+      "Project Overview": "Average Retirement Quantity:",
+      "Unnamed: 1": 0,
+      "Unnamed: 2": null,
+      "Credits Summary": null,
+      "Unnamed: 4": null
+    },
+    {
+      "Project Overview": null,
+      "Unnamed: 1": null,
+      "Unnamed: 2": null,
+      "Credits Summary": null,
+      "Unnamed: 4": null
+    },
+    {
+      "Project Overview": "Credits Issued (Error Controlled):",
+      "Unnamed: 1": 0,
+      "Unnamed: 2": null,
+      "Credits Summary": null,
+      "Unnamed: 4": null
+    }
+  ]
+}
